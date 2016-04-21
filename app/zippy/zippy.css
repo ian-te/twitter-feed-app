@@ -1,0 +1,9 @@
+i.open {
+  background-color: #000;
+  width: 20px;
+  display: inline;
+  height: 20px;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}

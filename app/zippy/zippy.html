@@ -1,0 +1,9 @@
+<div class="card">
+	<div class="card-header" (click)="zippyStateOpen=!zippyStateOpen">
+		<ng-content select=".heading"></ng-content>
+		<i [class.open]="zippyStateOpen"></i>
+	</div>
+	<div class="card-block" *ngIf="zippyStateOpen">
+		<ng-content select=".content"></ng-content>
+	</div>
+</div>

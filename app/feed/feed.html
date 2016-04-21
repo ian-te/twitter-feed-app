@@ -1,0 +1,5 @@
+<h3>{{ title }} {{value}}</h3>
+<p>{{ text }}</p>
+<div *ngFor="#post of posts">
+<post [title]="post.title" [text]="post.text" [likes]="post.likes" [liked]="post.liked"></post>
+</div>

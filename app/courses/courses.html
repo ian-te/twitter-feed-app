@@ -1,0 +1,20 @@
+<ul >
+	<li *ngFor="#course of courses, #i = index">
+		{{ i+1 }}) {{ course.name | uppercase | lowercase }}
+		<br>
+		{{ course.students | number }}
+		<br>
+		{{ course.rating | number:'2.2-2' }}
+		<br>
+		{{ course.price | currency:'AUD':true:'1.2-2' }}
+		<br>
+		{{ course.date | date:'MMM yyyy' }}
+		<br>
+		<!-- {{ course | json }}
+		<br> -->
+		{{ course.description | summary:40 }}
+		<br>
+		<button [ngClass]="{'test1' : !isFavorite,'active' : isFavorite}">Button</button>
+	</li>
+
+</ul>

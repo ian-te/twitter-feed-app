@@ -1,0 +1,83 @@
+CACHE MANIFEST
+# sw.bundle: ng-cli
+# sw.version: 7fb4e093bee1762ff82cdebb4ff4b44ce3ce2cd1
+# sw.file.hash: d9f44933bb96bf440e6e2df140049daeb7bb6126
+/app.js
+# sw.file.hash: e14ed13cacd53c42f8c4319eb008d6338a53e4df
+/app.js.map
+# sw.file.hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+/app/courses/courses.css
+# sw.file.hash: 6c8f1887c8345a8ef6f64056dae114060f264413
+/app/courses/courses.html
+# sw.file.hash: e14dd04847f2f37895d0de5f7f0dec0815ff64e8
+/app/courses/courses.js
+# sw.file.hash: da83db5524b3c467ee4524559fade33c47b3d47f
+/app/courses/courses.js.map
+# sw.file.hash: 0e2820caf8ce716f51c3e5d391d4ad2e369faed9
+/app/feed/feed.css
+# sw.file.hash: 41ff241c7b6fdbf2bcdbbdd12c488ce0bd3b8877
+/app/feed/feed.html
+# sw.file.hash: 954630d5cb6d16ff0a92a8ba1f8ae4c99d9a5c2b
+/app/feed/feed.js
+# sw.file.hash: 48cb388273b082876f31ed60261a2d1b25e3678d
+/app/feed/feed.js.map
+# sw.file.hash: 0a32dd849be9991beb0d9dd852be3fcfa8f342dc
+/app/like/like.css
+# sw.file.hash: 0220f17deb6e12757c6c444388b7c57468053b87
+/app/like/like.html
+# sw.file.hash: 14c90c2c9942504a808f1383a027e669dba516c7
+/app/like/like.js
+# sw.file.hash: eb691899b9da95d0c5db6435e56f56a83f5a0ba3
+/app/like/like.js.map
+# sw.file.hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+/app/post/post.css
+# sw.file.hash: 14d5ea8350b216fb61c6ee2ece57947d5b9b41f9
+/app/post/post.html
+# sw.file.hash: 143827942da151dd311dfa536bdcf5d56bb18218
+/app/post/post.js
+# sw.file.hash: a1f14eb104aef6315953b3d7087927aebac867ba
+/app/post/post.js.map
+# sw.file.hash: e8b874695e470abf99aa1350a669c5464545867a
+/app/summary/summary.js
+# sw.file.hash: 7153d7d072351e9175b3ee94c2d78ca7afd7ab05
+/app/summary/summary.js.map
+# sw.file.hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+/app/twitter-feed-app.css
+# sw.file.hash: 6551f99ba0a3a7fc02d84c64ba0c6d5c02d98e22
+/app/twitter-feed-app.html
+# sw.file.hash: 233c1084cc8b179728fc498443a8798cdb918e4f
+/app/twitter-feed-app.js
+# sw.file.hash: de82315f9cc09c755b3800b594fe574939f13e3f
+/app/twitter-feed-app.js.map
+# sw.file.hash: 406bc0de704bd85a62c8a3beb210112d00dc9788
+/app/zippy/zippy.css
+# sw.file.hash: d75e048bfe0fc491a5a3579fff99189389164423
+/app/zippy/zippy.html
+# sw.file.hash: 6612da56debd414ccef245a37f6b6acb9d187f16
+/app/zippy/zippy.js
+# sw.file.hash: f09615dae38e08dc357a4399e4779b7d290c97a9
+/app/zippy/zippy.js.map
+# sw.file.hash: 84161b857f5c547e3699ddfbffc6d8d737542e01
+/favicon.ico
+# sw.file.hash: 4dd936cf3e910a5cd9a8a2f36934f4f96bdd7f8f
+/index.html
+# sw.file.hash: e5e036b749a151842a579c1f964e7e57e9abd09d
+/tsconfig.json
+# sw.file.hash: be771bd0a4170c04abff753212def2a2376a408e
+/vendor/angular2/bundles/angular2-polyfills.js
+# sw.file.hash: f37cd2b1aaaae47ad6abb1c295764f13c0feaf54
+/vendor/angular2/bundles/angular2.dev.js
+# sw.file.hash: e161d053cf096f7e43daa9aafc58026972429e6c
+/vendor/angular2/bundles/http.dev.js
+# sw.file.hash: 7f4f438fda4e4eade76812d3f6186ec78bbe612d
+/vendor/angular2/bundles/router.dev.js
+# sw.file.hash: e25faa64f759f35d881efc242e26c20440479897
+/vendor/angular2/bundles/upgrade.dev.js
+# sw.file.hash: 2adbdc3a7b6d85ac53b76b52234f28b16c88c7b2
+/vendor/es6-shim/es6-shim.js
+# sw.file.hash: 736fe8675af5630486329adf5efe12ec7be449b1
+/vendor/rxjs/bundles/Rx.js
+# sw.file.hash: 064ab212cfd9e125474ae3bbb600c366b31e79cb
+/vendor/systemjs/dist/system-polyfills.js
+# sw.file.hash: 83128f4a4209eb7b16ad0bb729fda6939bc450fc
+/vendor/systemjs/dist/system.src.js
